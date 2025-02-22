@@ -1,3 +1,9 @@
+## 🎨 UI Design & Prototype  
+View my full UI design and prototype in Figma:  
+[Click Here]https://www.figma.com/proto/DZaRCxuHnjrWXybLz2izhd/Recipe-Website?node-id=0-1&t=CVAzN6AxlKD26nWD-1
+
+
+
 # Recipe-Website
 # Tasty Bites - Recipe Sharing App UI/UX Design
 
